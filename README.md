@@ -26,4 +26,9 @@ want to apply our GIS knowledges to determine the noise pollution risk points.
  3. Create output maps.
 
 
+## Thank you sponsors
+
+* We would like to thank everyone from #KISTI# for thier supports during this workshop in Korea
+* We, also, would like to thank the President of RBRU and the ex-dean of CSIT for thier additional supports
+
 
